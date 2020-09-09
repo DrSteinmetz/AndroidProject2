@@ -134,7 +134,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/sign_in_button"
             android:layout_toEndOf="@id/have_account"
-            android:background="null"
+            android:background="@color/transparent"
             android:text="Sign in"/>
 
     </RelativeLayout>

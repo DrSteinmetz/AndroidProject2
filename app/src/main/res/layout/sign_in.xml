@@ -88,7 +88,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/login_btn"
-            android:background="null"
+            android:background="@color/transparent"
             android:layout_marginTop="20dp"
             android:text="Forgot Password?"
             android:textSize="15sp"
@@ -122,7 +122,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/sign_up_button"
             android:layout_toEndOf="@id/donthave_account"
-            android:background="null"
+            android:background="@color/transparent"
             android:text="Sign up"/>
 
     </RelativeLayout>

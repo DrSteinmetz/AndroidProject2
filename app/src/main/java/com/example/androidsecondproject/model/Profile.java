@@ -2,6 +2,7 @@ package com.example.androidsecondproject.model;
 
 import android.net.Uri;
 
+import androidx.annotation.NonNull;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
